@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66011214424",
+    "firebase_url": "https://bangla-stories-b0a0b.firebaseio.com",
+    "project_id": "bangla-stories-b0a0b",
+    "storage_bucket": "bangla-stories-b0a0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66011214424:android:14f27891b2dc8c3221102d",
+        "android_client_info": {
+          "package_name": "com.aisoftware.banglastories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66011214424-pd59ppbcnq3p0t2hpbvnid8is3nv8ubp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKVORiXySGHb9G6xK5gu82eKw5Bg_5sa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66011214424-pd59ppbcnq3p0t2hpbvnid8is3nv8ubp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
